@@ -1,0 +1,64 @@
+\documentclass{article}
+\usepackage{currvita}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage[dvips]{epsfig}
+\usepackage{charter}
+
+\oddsidemargin  0.5cm  % Ancho Letter 21,59cm
+\evensidemargin 0.5cm  % Alto  Letter 27,81cm
+\textwidth      15.5cm
+\topmargin      0cm
+\textheight     22.5cm
+\parindent      2cm
+\parskip        2ex
+
+\begin{document}
+\setlength{\cvlabelwidth}{45mm}
+\begin{cv}{CURR\'ICULUM VITAE}
+
+\begin{cvlist}{Datos Personales}
+\item[Nombre Completo] Juan Francisco Arredondo Maritano
+\item[RUT] 16.575.637-1
+\item[Fecha de Nacimiento] 06 de Octubre de 1987
+\item[Edad] 19 a\~nos
+\item[Direcci\'on] Talasia 550, Jard\'in del Mar, Vi\~na del Mar
+\item[Fono Hogar] +56 32 2 836290
+\item[Fono M\'oil] +56 08 9047990
+\item[E-Mail] \texttt{juan.arredondo@alumnos.utfsm.cl}
+\item[Estado Civil] Soltero
+\item[Ocupaci\'on] Estudiante
+\end{cvlist}
+
+\begin{cvlist}{Educaci\'on}
+\item[2006 - a la fecha] Educaci\'on Superior: Universidad T\'ecnica Federico Santa Mar\'ia, Ingenier\'ia Civil Electr\'onica
+\item[2005 - 2006] Educaci\'on Superior: Universidad T\'ecnica Federico Santa Mar\'ia, Programa Preliminar para la Ingenier\'ia
+\item[2002 - 2005] Educaci\'on Media: The Mackay School, Re\~naca, Vi\~na del Mar
+\item[2001       ] Educaci\'on B\'asica: The Mackay School, Re\~naca, Vi\~na del Mar
+\item[1997 - 2000] Educaci\'on B\'asica: Colegio Valle del Aconcagua, Quillota
+\item[1994 - 1996] Educaci\'on B\'asica: Instituto Rafael Arist\'ia, Quillota
+\end{cvlist}
+
+\begin{cvlist}{Experiencia Laboral}
+\item[2006 - Enero] \textbf{Corporaci\'on Click S.A, Santiago}\\\textit{Servicio Tecnico}\\Reparacion y armado de computadores
+\end{cvlist}
+
+\begin{cvlist}{Idiomas}
+\item[] Espa\~nol Lengua Nativa
+\item[] Ingles
+\end{cvlist}
+
+\begin{cvlist}{Hobbies}
+\item M\'usica
+\item Cocina
+\item Deportes, Karate, Basquetball
+\end{cvlist}
+
+\begin{cvlist}{Otros}
+\item[2004] Servicio Militar, Curso avanzado para estudiantes, Regimiento de Infanteria nro.2 Maipo, Valparaiso.
+\end{cvlist}
+
+\cvplace{\LaTeX~/~Valpara\'io}
+\vspace{2cm}
+\end{cv}
+\end{document}
