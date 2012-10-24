@@ -1,0 +1,85 @@
+\documentclass[utf8x,helvetica,narrow,spanish,nologo,noflag,totpages,notitle]{europecv}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage{graphicx}
+\usepackage[english,spanish]{babel}
+\usepackage{geometry}
+\geometry{verbose,a4paper,tmargin=1.27cm,bmargin=2cm,lmargin=1cm,rmargin=1cm}
+\usepackage{microtype}
+ 
+\renewcommand{\ttdefault}{phv}
+ 
+\ecvname{Manuel José Arredondo Maritano}
+\ecvfootername{Manuel Arredondo}
+\ecvnationality{Chilena}
+\ecvaddress{Los cóndores 2040, Peñalolen, Santiago, Región Metropolitana}
+\ecvtelephone[]{56 9 89047987}
+\ecvemail{manuel.arredo@gmail.com}
+\ecvdateofbirth{29 de Marzo de 1985}
+\ecvpicture[width=90px]{ManuelArrednondoIcon}
+\ecvbeforepicture{\ecvspace{-2.7cm}\raggedright}
+\ecvafterpicture{\ecvspace{-1.5cm}}
+
+\begin{document}
+\begin{europecv}
+\vspace{1cm}
+\ecvsection{\large Currículum Vítae\\Ingeniero en Informática, UTFSM}
+\ecvpersonalinfo % prints the personal info, defined in the preamble
+
+\ecvitem[5pt]{Sitio Web}{http://www.mnj.cl}
+\ecvitem[5pt]{Redes sociales}{\includegraphics[width=10px]{face}\hspace{2px}manuel.arredondo\hspace{10px}\includegraphics[width=10px]{twiter}\hspace{2px}marredo\hspace{10px}\includegraphics[width=10px]{link}\hspace{2px}Manuel Arredondo Maritano}
+
+% Reseña
+\ecvsection{Reseña}
+\ecvitem{}{Ingeniero Informático de la Universidad Técnica Federico Santa María, Desde bien temprana edad me ha tocado convivir con sistemas informáticos y siempre interesado en como la tecnología y sus procesos influyen en nuestra sociedad actual. Mi experiencia laboral comienza desde muy temprano cuando cree mi primera empresa de desarrollo Web aun estando en el colegio, luego ingreso a la UTFSM y me desempeño en múltiples actividades, participando en grupos de discusión política, de investigación, de desarrollo de proyectos de innovación tecnológica, siempre con una visión critica, constructiva y una mirada social. Trabajo profesionalmente desde mi tercer año de universidad desempeñando cargos de ayudante en el Departamento de Informática y en diferentes empresas externas. Actualmente me desempeño como ''Analista informático'' para el área de Energía Solar en la gerencia de Energía y Cambio Climático de Fundación Chile, desarrollando diversos sistemas de información para el apoyo de proyectos del área. En mis tiempos libre me dedico a realizar actividades de montaña tanto de treking como de media y alta montaña a lo largo de todo el país.}
+
+% Especialidades
+\ecvsection{Especialidades}
+\ecvitem{Sistemas Informáticos}{Diseño e implementación de sistemas informáticos involucrando software y hardware necesario, especialmente enfocado a las redes de datos y sistemas de seguridad}
+\ecvitem{Desarrollo de Software}{Desarrollo de aplicaciones para todo tipo de ambientes, en diferentes lenguajes de programación dependiendo de los requerimientos y necesidades}
+
+% Antecedentes Academicos
+\ecvsection{Antecedentes Académicos}
+\ecvitem{2012}{Titulo Profesional, Ingeniero de ejecución en Informática, Universidad Técnica Federico Santa María, Valparaíso V Región, Chile. Tema: Sistema informático para el manejo de datos de producción generados por una estación de monitoreo solar fotovoltaica.}
+\ecvitem{2004 - 2009}{Egresado Educación Superior, Ingeniería en Informática, Universidad Técnica Federico Santa María, Valparaíso V Región, Chile}
+\ecvitem{2000 - 2003}{Educación Media, The Mackay School, Reñaca, Viña del Mar, V Región, Chile}
+\ecvitem{1992 - 1999}{Educación Básica, Instituto Rafael Aristía y Colegio Valle del Aconcagua, Quillota, V Región, Chile}
+
+% Experiencia
+\ecvsection{Experiencia Laboral}
+\ecvitem{2012}{\textbf{Fundación Chile, Santiago, Región Metropolitana, Chile.} \textit{Memorista}, Desarrollo de herramientas web para la visualización de información obtenida de plantas de energía solar fotovoltaica y estaciones meteorológicas, manejo de software y hardware de estaciones meteorológicas(Datalogger, sensores, CRBasic, otros)}
+\ecvitem{2011}{\textbf{Sondet.cl, Valparaíso, V Región, Chile.} \textit{Ing. de Proyecto}. A cargo del desarrollo de la aplicación Crow, Aplicación para el sondeo y medición de tendencias en la redes sociales. Desarrollo de aplicación para Twitter y Facebook.}
+\ecvitem{2011}{\textbf{Rayun Ltda, Valparaíso, V Región, Chile}. \textit{Ing. de Proyecto}. Análisis, diseño e Implementación de la Red informática para una plata procesadora de productos marinos en la décima Región en los alrededores de Valdivia. La planta procesadora paso por un periodo de reestructuración para la implementación de un sistema de trazabilidad de productos con el fin de mejorar la calidad según estándares internacionales.}
+\ecvitem{2009 - 2011}{\textbf{CTAC, Valparaíso, V Región, Chile}. \textit{Ing. de Proyecto}. Instalación y mantención de servidores, Jefe de capacitaciones, Creación de contenidos y talleres para capacitaciones en tecnologías. PHP, Apache, MapServer, Postgres/gis, Latex, JavaScript, Centos, Virtualización(XEN). Durante este periodo estuve a cargo de la etapa de difusión del proyecto SIG Rural, proyecto CORFO de la linea difusión tecnológica con el apoyo de InnovaChile y FIC adjudicado por la UVM y Coopeumo. El proyecto tenia como objetivo la implementación de un sistema SIG sobre una red inalámbrica rural en la zona de Peumo Rancagua en la sexta Región.}
+\ecvitem{2006 - 2007}{\textbf{Transact Chile S.A., Viña del Mar, V Región, Chile}. \textit{Desarrollador}. Ingreso a realizar mi practica profecional desepeñandome en las siguientes labores: Diseño y desarrollo Web, desarrollo de módulos en PHP para el soporte de servidores de telefonía IP, diseño de Base de datos y mantención de servidores de base de datos. Finalizado el periodo de practica fui contratado con el fin de desarrollar sistemas para soporte de clientes en ambiente PHP, JavaScript, Ambiente Web, diseño de base de datos, Voip, Asterisk.}
+\ecvitem{2001 - 2002}{\textbf{Imaginería LTDA, Quillota, V Región, Chile.} \textit{Desarrollador y Socio}. Dise\~no, Desarrollo y Mantenci\'on de sitios web. Administraci\'on de Base de datos MySQL. Imaginería Ltda Empresa creada por mi y 3 socios mas en la localidad hijuelas V Región interior Dedicada a prestar servicios de diseño, desarrollo y mantención de portales web para empresas del sector}
+
+\ecvsection{Otras Experiencias}
+\ecvitem{2009 - 2010}{\textbf{Universidad Técnica Federico Santa María, Valparaíso, Chile.} \textit{Ayudante}. Laboratorio de Integración Tecnológica, Dictar Talleres de redes de computadores en diversos temas(Redes inalámbricas, Seguridad, etc), Mantención de servicios(Web, Impresión, DHCP, Base de datos, Cuentas, Virtualización).}
+\ecvitem{2008 - 2011}{\textbf{CETCOS, UTFSM, Valparaíso, Chile}. \textit{Investigador e Ing. de proyectos}. Investigación, Desarrollo, Charlas, Talleres. CETCOS: grupo de estudiantes y ex-alumnos de la UTFSM que se dedica a investigar y desarrollar tecnologías con el fin de sociabilizarlas. Durante mi periodo como estudiante participe en la creación del grupo y en la ejecución de diversos proyectos principalmente financiados por DGIP y Pie-A de entre los cuales se encontraban la investigación e implementación de redes Mesh, telefonía ip y desarrollo de antenas para la transición de datos. Actualmente sigo participando activamente del grupo como ingeniero principalmente en  tareas relacionadas con el área de redes, invariación y relator de talleres.}
+\ecvitem{2007}{\textbf{Universidad Técnica Federico Santa María, Valparaíso, Chile.} \textit{Ayudante}. Laboratorio de Programación. Dictar taller de programación a 40 alumnos aproximadamente, introducción a la programación, Introducción a lenguajes de programación Pseudocódigo, Pascal, C}
+
+% Conocimientos
+\ecvsection{Conocimientos}
+\ecvitem{Sistemas Operativos}{GNU/Linux-Debian/CetOS/Arch/Ubuntu/Slackware. Nivel Avanzado}
+\ecvitem{Linux}{Apache httpd, mapserver, dhcp, Asterisk, dns, xen, Compilación, kernels, Otros}
+\ecvitem{Redes}{Iptables, Firewalling, Redes Mesh, Voip, Wireless, Cableado, otros}
+\ecvitem{Base de Datos}{MySql, PostgreSQL, Diseño de Bases de Datos, Pg-SQL, Data Warehouse, Data Mining, Postgis}
+\ecvitem{Programación}{Orientación a Objetos, C, SQL, PHP, Javascript, Ajax, Css, HTML, UML, python, perl, Otros}
+\ecvitem{Internet}{Redes sociales, Twiter, Facebook, conocimiento de Apis y desarrollo de aplicaciones.}
+\ecvitem{Otros}{Musica, Cocina, Química, Historia, Filosofía, Política, Economía, Treking, Vida al aire libre}
+
+\vspace{1cm}
+% Lenguajes
+\ecvmothertongue[10pt]{Español}
+\ecvlanguageheader{(*)}
+\ecvlanguage{Inglés}{\ecvBOne}{\ecvBTwo}{\ecvBTwo}{\ecvBOne}{\ecvATwo}
+%\ecvlanguagefooter{(*)}
+
+\ecvsection{Otros}
+\ecvitem{Montañismo}{Practica de actividades al aire libre, treking, montañismo(media y alta montaña)}
+\ecvitem{Curso}{Curso Básico de montaña, Escuela Nacional de Montaña (2012)}
+
+\end{europecv}
+\end{document}
+ 
